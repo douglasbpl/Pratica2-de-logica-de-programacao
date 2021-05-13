@@ -12,7 +12,7 @@ if (idade > 18)
 {console.log(`Você tem mais que 18`)} 
 else {console.log(`Você tem 18 ou menos`)}
 
-if (idade >= 18 && nascimento ) console.log(maiord )
+if (idade >= 18 && nascimento ) {console.log(maiord )}
 else {console.log(menord)}
 
 
@@ -21,8 +21,8 @@ if(mes == "Janeiro" || mes == "Dezembro")
 else {console.log(`Não é seu aniversário`)}
 
 
-if(initialletter == "R") console.log(`Seu nome começa com R`)
-else{ console.log(`Seu nome não começa com R`)}
+if(initialletter == "R") {console.log(`Seu nome começa com R`)}
+else{console.log(`Seu nome não começa com R`)}
 
 if((sobrenome > "6") || (initialletter == "E")) {console.log(` Você foi o escolhido`)}
 else {console.log(`Você não foi o escolhido`)}
